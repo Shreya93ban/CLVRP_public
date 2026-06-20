@@ -19,7 +19,6 @@ The correspoding article can be found at: https://arxiv.org/abs/2511.00506
 Install dependencies:
 
 ```
-python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
