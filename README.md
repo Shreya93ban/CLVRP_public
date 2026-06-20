@@ -1,6 +1,6 @@
-This repository contains a Hierarchial QAOA-based pipeline with local feasibility repair for a vehicle routing problem. The example problem uses 12 customer points, clusters them into three groups of four, solves an open TSP (OTSP) inside each cluster, solves an inter-cluster VRP (ICVRP) over the depot and cluster centroids, post-processes sampled bitstrings based on a local-bit flip search, and merges the pieces into full routes.
+This repository contains a Hierarchical QAOA-based pipeline with local feasibility repair for a vehicle routing problem. The example problem uses 12 customer points, clusters them into three groups of four, solves an open TSP (OTSP) inside each cluster, solves an inter-cluster VRP (ICVRP) over the depot and cluster centroids, post-processes sampled bitstrings based on a local-bit flip search, and merges the pieces into full routes.
 
-The correspoding article can be found at: https://arxiv.org/abs/2511.00506
+The corresponding article can be found at: https://arxiv.org/abs/2511.00506
 
 ## Repository Layout
 
